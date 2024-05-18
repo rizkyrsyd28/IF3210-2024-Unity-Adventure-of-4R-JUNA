@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBullet
+  - FxTemporaire
+  - EnemyManager
+  - PlayerPet
+  - Enemy
+  - Raja
+  - CheatUI
+  - PlayerEyes
+  - Jendral
+  - Kroco
+  - KepalaKroco
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - DialogueBox
+  - Bullet
+  - WallUnderground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DialogueBox
+    uniqueID: 3278732985
+    locked: 0
